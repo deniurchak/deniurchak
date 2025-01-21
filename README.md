@@ -8,7 +8,7 @@ I'm a Senior Software Engineer with a passion for building products and solving 
 
 ### 📸 PhotoshootPro
 
-[![PhotoshootPro](https://img.shields.io/badge/PhotoshootPro-000000?style=for-the-badge&logo=https://www.getphotoshootpro.com/logo.svg)](https://photoshootpro.com)
+[![PhotoshootPro](https://img.shields.io/badge/PhotoshootPro-000000?style=for-the-badge&logo=https://www.getphotoshootpro.com/logo.svg)](https://getphotoshootpro.com)
 [![Live](https://img.shields.io/badge/Live-success?style=for-the-badge)](https://photoshootpro.com)
 
 Single-handedly built a platform for business photo generation using NextJS, Supabase and TypeScript. Leveraged Flux AI model for image processing. Achieved remarkable time-to-market by going from initial concept to first paying customers within one month.

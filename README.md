@@ -11,7 +11,7 @@ I'm a Senior Software Engineer with a passion for building products and solving 
 [![eSIMPal](https://img.shields.io/badge/eSIMPal-000000?style=for-the-badge)](https://getesimpal.com)
 [![Live](https://img.shields.io/badge/Live-success?style=for-the-badge)](https://getesimpal.com)
 
-eSIM service for travelers: instant mobile data in 150+ countries with no physical SIM. Built with NextJS, Supabase, and a modular eSIM provider architecture. Includes web app, Telegram Mini App, Stripe payments, and 24/7 support.
+eSIM service for travelers: instant mobile data in 150+ countries with no physical SIM. Built with NextJS, Supabase, and a modular eSIM provider architecture.
 
 ![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
